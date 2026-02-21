@@ -1,4 +1,4 @@
-# Student Performance Prediction
+# Student Performance Prediction 
 
 ## Overview
 This machine learning project predicts student performance based on study habits and attendance.
